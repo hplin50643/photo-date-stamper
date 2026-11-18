@@ -1,6 +1,6 @@
 # 照片加日期
 
-[開啟線上工具](https://root50643.github.io/photo-date-stamper/) · [GitHub 專案](https://github.com/root50643/photo-date-stamper)
+[開啟線上工具](https://hplin50643.github.io/photo-date-stamper/) · [GitHub 專案](https://github.com/hplin50643/photo-date-stamper)
 
 純前端的批次照片日期工具。使用電腦版 Chrome 或 Edge 開啟網站，選擇照片所在目錄、調整日期效果，便能將日期印在照片右下角並寫入本機輸出目錄。照片由瀏覽器在本機處理，沒有後端，也不會上傳照片。
 
